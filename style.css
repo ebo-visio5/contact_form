@@ -199,3 +199,18 @@ textarea .input {
     top: 50%;
     left: 50%;
 }
+/* @media only screen and (max-width:780px) {
+    .big-circle{
+      width: 300px;
+      height: 300px;
+    }
+} */
+@media only screen and(max-width:320px) {
+  .contact-form::before{
+    width: 20px;
+    height: 20px;
+  }
+  
+}
+
+  
